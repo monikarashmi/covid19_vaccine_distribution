@@ -6,6 +6,7 @@ df=pd.read_csv('country_vaccinations.csv')
 #print(df.head())
 #print(df.tail())
 print(df['vaccines'].unique())
+print('this is my first commit in git')
 #df.drop_duplicates(subset ="vaccines", keep = False, inplace = True) 
 
 #print(df.sort_values("vaccines", inplace=True) )
