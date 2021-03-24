@@ -1,0 +1,138 @@
+,country,vaccines
+0,Albania,Pfizer/BioNTech
+62,Algeria,Sputnik V
+84,Andorra,Pfizer/BioNTech
+129,Angola,Oxford/AstraZeneca
+133,Anguilla,Oxford/AstraZeneca
+156,Antigua and Barbuda,Oxford/AstraZeneca
+184,Argentina,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+261,Australia,"Oxford/AstraZeneca, Pfizer/BioNTech"
+290,Austria,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+368,Azerbaijan,Sinovac
+425,Bahrain,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+508,Bangladesh,Oxford/AstraZeneca
+556,Barbados,Oxford/AstraZeneca
+583,Belarus,Sputnik V
+636,Belgium,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+713,Belize,Oxford/AstraZeneca
+726,Bermuda,Pfizer/BioNTech
+786,Bolivia,Sputnik V
+833,Brazil,"Oxford/AstraZeneca, Sinovac"
+892,Bulgaria,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+969,Cambodia,Sinopharm/Beijing
+1003,Canada,"Moderna, Pfizer/BioNTech"
+1095,Cayman Islands,Pfizer/BioNTech
+1172,Chile,"Pfizer/BioNTech, Sinovac"
+1254,China,"Sinopharm/Beijing, Sinopharm/Wuhan, Sinovac"
+1344,Colombia,"Pfizer/BioNTech, Sinovac"
+1370,Costa Rica,Pfizer/BioNTech
+1452,Cote d'Ivoire,Oxford/AstraZeneca
+1467,Croatia,Pfizer/BioNTech
+1540,Cyprus,Pfizer/BioNTech
+1601,Czechia,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+1680,Denmark,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+1758,Dominica,Oxford/AstraZeneca
+1777,Dominican Republic,Oxford/AstraZeneca
+1806,Ecuador,Pfizer/BioNTech
+1858,Egypt,Sinopharm/Beijing
+1865,El Salvador,Oxford/AstraZeneca
+1891,England,"Oxford/AstraZeneca, Pfizer/BioNTech"
+1983,Estonia,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+2061,Faeroe Islands,"Moderna, Pfizer/BioNTech"
+2104,Falkland Islands,Oxford/AstraZeneca
+2120,Finland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+2195,France,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+2273,Germany,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+2351,Ghana,Oxford/AstraZeneca
+2361,Gibraltar,Pfizer/BioNTech
+2426,Greece,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+2504,Greenland,Pfizer/BioNTech
+2538,Grenada,Oxford/AstraZeneca
+2554,Guatemala,Moderna
+2572,Guernsey,Pfizer/BioNTech
+2620,Guyana,Oxford/AstraZeneca
+2632,Honduras,Moderna
+2633,Hong Kong,"Pfizer/BioNTech, Sinovac"
+2656,Hungary,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+2734,Iceland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+2810,India,"Covaxin, Oxford/AstraZeneca"
+2870,Indonesia,Sinovac
+2933,Iran,Sputnik V
+2943,Ireland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+3015,Isle of Man,"Oxford/AstraZeneca, Pfizer/BioNTech"
+3069,Israel,"Moderna, Pfizer/BioNTech"
+3156,Italy,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+3235,Japan,Pfizer/BioNTech
+3262,Jersey,"Oxford/AstraZeneca, Pfizer/BioNTech"
+3308,Jordan,"Pfizer/BioNTech, Sinopharm/Beijing"
+3371,Kazakhstan,Sputnik V
+3415,Kenya,Oxford/AstraZeneca
+3426,Kuwait,Pfizer/BioNTech
+3497,Latvia,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+3571,Lebanon,Pfizer/BioNTech
+3602,Liechtenstein,"Moderna, Pfizer/BioNTech"
+3635,Lithuania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+3714,Luxembourg,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+3789,Macao,"Pfizer/ BioNTech, Sinopharm/Beijing"
+3823,Malaysia,Pfizer/BioNTech
+3843,Maldives,Oxford/AstraZeneca
+3885,Malta,Pfizer/BioNTech
+3942,Mauritius,Oxford/AstraZeneca
+3966,Mexico,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V"
+4048,Moldova,Oxford/AstraZeneca
+4059,Monaco,Pfizer/BioNTech
+4079,Mongolia,Oxford/AstraZeneca
+4101,Montenegro,"Sinopharm/Beijing, Sputnik V"
+4124,Montserrat,Oxford/AstraZeneca
+4140,Morocco,"Oxford/AstraZeneca, Sinopharm/Beijing"
+4187,Myanmar,Oxford/AstraZeneca
+4195,Nepal,Oxford/AstraZeneca
+4221,Netherlands,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+4271,New Zealand,Pfizer/BioNTech
+4292,Northern Cyprus,"Pfizer/BioNTech, Sinovac"
+4301,Northern Ireland,"Oxford/AstraZeneca, Pfizer/BioNTech"
+4393,Norway,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+4471,Oman,"Oxford/AstraZeneca, Pfizer/BioNTech"
+4549,Pakistan,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V"
+4569,Panama,Pfizer/BioNTech
+4624,Paraguay,Sputnik V
+4645,Peru,Sinopharm/Beijing
+4679,Philippines,Sinovac
+4690,Poland,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+4767,Portugal,"Moderna, Pfizer/BioNTech"
+4846,Qatar,Pfizer/BioNTech
+4925,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+5003,Russia,"EpiVacCorona, Sputnik V"
+5093,Rwanda,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+5122,Saint Helena,Oxford/AstraZeneca
+5123,Saint Lucia,Oxford/AstraZeneca
+5140,San Marino,Sputnik V
+5156,Saudi Arabia,"Oxford/AstraZeneca, Pfizer/BioNTech"
+5225,Scotland,"Oxford/AstraZeneca, Pfizer/BioNTech"
+5317,Senegal,Sinopharm/Beijing
+5338,Serbia,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V"
+5405,Seychelles,"Oxford/AstraZeneca, Sinopharm/Beijing"
+5467,Singapore,Pfizer/BioNTech
+5531,Slovakia,Pfizer/BioNTech
+5601,Slovenia,"Oxford/AstraZeneca, Pfizer/BioNTech"
+5679,South Africa,Johnson&Johnson
+5707,South Korea,"Oxford/AstraZeneca, Pfizer/BioNTech"
+5726,Spain,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+5797,Sri Lanka,Oxford/AstraZeneca
+5843,Sweden,"Oxford/AstraZeneca, Pfizer/BioNTech"
+5919,Switzerland,"Moderna, Pfizer/BioNTech"
+5965,Thailand,"Oxford/AstraZeneca, Sinovac"
+5980,Trinidad and Tobago,Oxford/AstraZeneca
+5988,Tunisia,Sputnik V
+5991,Turkey,Sinovac
+6053,Turks and Caicos Islands,Pfizer/BioNTech
+6083,Uganda,Oxford/AstraZeneca
+6089,Ukraine,Oxford/AstraZeneca
+6109,United Arab Emirates,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinopharm/Wuhan, Sputnik V"
+6179,United Kingdom,"Oxford/AstraZeneca, Pfizer/BioNTech"
+6271,United States,"Johnson&Johnson, Moderna, Pfizer/BioNTech"
+6357,Uruguay,"Pfizer/BioNTech, Sinovac"
+6374,Venezuela,Sputnik V
+6390,Vietnam,Oxford/AstraZeneca
+6399,Wales,"Oxford/AstraZeneca, Pfizer/BioNTech"
+6491,Zimbabwe,Sinopharm/Beijing
